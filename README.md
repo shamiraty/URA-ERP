@@ -1,7 +1,6 @@
 # SYSTEM REQUIREMENTS
 ## 1. OTP MESSAGE
 
-
 | Requirement            | Status |
 |------------------------|--------|
 | Enquiry registration    | ✔️     |
